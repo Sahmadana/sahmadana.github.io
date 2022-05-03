@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher at the Freie Universität Berlin and currently work with the research group ‘Work in Highly Automated, Digital-Hybrid Processes’ at the Weizenbaum Institute in Berlin, associated with the ‘Globalization, Work, and Production’ unit at the Berlin Social Science Center. My interdisciplinary research project looks at the global content moderation value chains and the role of Indian IT-BPO firms in servicing social media platforms located in the Global North. In doing so, I primarily study the managerial strategies of labour control for extracting labour productivity, and the accompanying forms of agency exercised by content moderators in India.
+I am a doctoral candidate at the Freie Universität Berlin and currently work as a research fellow with the research group ‘Work in Highly Automated, Digital-Hybrid Processes’ at the Weizenbaum Institute in Berlin, associated with the ‘Globalization, Work, and Production’ unit at the Berlin Social Science Center. My interdisciplinary research project looks at the global content moderation value chains and the role of Indian IT-BPO firms in servicing social media platforms located in the Global North. In doing so, I primarily study the managerial strategies of labour control for extracting labour productivity, and the accompanying forms of agency exercised by content moderators in India.
 
 I also undertook a short project together with a colleague at WZB on analysing the use of a content moderation software for changing skills and experiences of work for migrant workers employed at a German IT-Services firm. Our findings are currenly in the process of being finalised for a journal article.
 
