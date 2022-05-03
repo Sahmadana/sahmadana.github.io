@@ -12,6 +12,6 @@ I am a doctoral researcher at the Freie Universität Berlin and currently work w
 
 I also undertook a short project together with a colleague at WZB on analysing the use of a content moderation software for changing skills and experiences of work for migrant workers employed at a German IT-Services firm. Our findings are currenly in the process of being finalised for a journal article.
 
-In addition to academic work, I also occassionally write journalistic articles on national politics and labour relations in India and in Europe. Please check out some of this work together with the academic writing in the publication section of this website.
+In addition to academic work, I occassionally write journalistic articles on national politics and labour relations in India and in Europe. Please check out some of this work together with the academic writing in the publication section of this website.
 
 Prior to academia, I worked in the field of digital campaigning with civil society organisations in India and in the UK. You can find more details on my educational qualifications and work experiences in my CV.
