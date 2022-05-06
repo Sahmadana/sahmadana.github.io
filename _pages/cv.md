@@ -29,15 +29,15 @@ Work experience
 ======
 * 2018 - Present: Research Fellow, Globalization, Work and Production (Berlin Social Science Center); Doctoral Student (Weizenbaum Institut Berlin, FU Berlin).
 
-* 2016: Digital Engagement Campaigner, Greenpeace India.
+* Jan - Dec 2016: Digital Engagement Campaigner, Greenpeace India.
 
-* 2015: Outreach Officer, Amnesty International, Norway.
+* April - May 2015: Outreach Officer, Amnesty International, Norway.
 
 * June 2014: Research Intern, Shan Women’s Action Network, Thailand.
 
 * Jan - May 2014: Communication Intern, Child Rights International Network, United Kingdom.
 
-* 2010: Researcher, National Foundation for India.
+* March - Aug 2010: Researcher, National Foundation for India.
 
 Extra Activities
 ======
