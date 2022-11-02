@@ -90,7 +90,7 @@ author:
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "sana.ahmad@wzb.eu"
   researchgate     : "https://www.researchgate.net/profile/Sana-Ahmad-8"
-  uri              : "https://purplecode.org/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -116,6 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "Podcast"
+      icon: "fas fa-microphone-stand"
+      url: "https://purplecode.org/"
   
 
 # Reading Files
