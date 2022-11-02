@@ -14,4 +14,4 @@ In addition to academic work, I occassionally write journalistic articles on nat
 
 Prior to academia, I worked in the field of digital campaigning with civil society organisations in India and in the UK. You can find more details on my educational qualifications and work experiences in my CV.
 
-My research interests include data/ ML studies, critical internet studies, intersectionality, labor sociology, industrial relations, supply chains.
+My research interests include data/ ML studies, critical internet studies, intersectionality, labor sociology, industrial relations, and supply chains.
