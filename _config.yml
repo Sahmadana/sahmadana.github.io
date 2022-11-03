@@ -116,10 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "Podcast"
-      icon: "fas fa-microphone-stand"
-      url: "https://purplecode.org/"
+  podcast          : "https://purplecode.org/"
   
 
 # Reading Files
