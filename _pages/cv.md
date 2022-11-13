@@ -21,7 +21,7 @@ Education
 
 Scholarship
 ======
-* 2018 - 2021: Hans Boekler Stiftung Dissertation Funding
+* 2018 - 2021: Hans Boeckler Stiftung Dissertation Funding
 
 * 2013 - 2015: Erasmus Mundus Joint Masters Scholarship
 
