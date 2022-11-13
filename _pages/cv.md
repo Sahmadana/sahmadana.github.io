@@ -19,6 +19,12 @@ Education
 
 * 2010: B.A. Journalism and Mass Communication, Guru Gobind Singh Indraprastha University, India.
 
+Scholarship
+======
+* 2018 - 2021: Hans Boekler Stiftung Dissertation Funding
+
+* 2013 - 2015: Erasmus Mundus Joint Masters Scholarship
+
 Languages
 ======
 
