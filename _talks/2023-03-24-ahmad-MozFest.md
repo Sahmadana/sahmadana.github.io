@@ -1,5 +1,5 @@
 ---
-title: "Limits of automation in content moderation: a production perspective"
+title: "Limits of Automation in Content Moderation: A Production Perspective"
 collection: talks
 type: "Mozilla Festival 2023"
 permalink: /talks/2023-03-24-ahmad-MozFest
