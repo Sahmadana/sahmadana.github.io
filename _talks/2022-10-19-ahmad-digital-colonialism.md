@@ -1,5 +1,5 @@
 ---
-title: "Resistance against digital colonialism"
+title: "Resistance Against Digital Colonialism"
 collection: talks
 type: "Workshop"
 permalink: /talks/2022-10-19-ahmad-digital-colonialism
