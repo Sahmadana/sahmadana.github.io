@@ -1,5 +1,5 @@
 ---
-title: "Sourcing global content moderation services using automated technologies"
+title: "Sourcing Global Content Moderation Services using Automated Technologies"
 collection: talks
 type: "Seminar"
 permalink: /talks/2022-06-29-ahmad-sourcing-content-moderation
