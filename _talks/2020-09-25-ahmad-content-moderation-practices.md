@@ -1,5 +1,5 @@
 ---
-title: "Content moderation practices"
+title: "Content Moderation Practices"
 collection: talks
 type: "Lecture"
 permalink: /talks/2020-09-25-ahmad-content-moderation-practices
