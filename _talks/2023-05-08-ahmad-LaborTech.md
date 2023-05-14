@@ -4,7 +4,7 @@ collection: talks
 type: "Labor Tech Research Network"
 permalink: /talks/2023-05-08-ahmad-LaborTech
 venue: "Online"
-date: 2019-10-03
+date: 2023-05-08
 location: "Online"
 ---
 http://labortechresearchnetwork.org/index.php/speaker-series/
