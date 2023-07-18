@@ -7,4 +7,4 @@ venue: "Melbourne Convention and Exhibition Centre"
 date: 2023-06-27
 location: "Narrm, Melbourne, Australia"
 ---
-(https://www.isa-sociology.org/en/conferences/world-congress/melbourne-2023)
+https://www.isa-sociology.org/en/conferences/world-congress/melbourne-2023
