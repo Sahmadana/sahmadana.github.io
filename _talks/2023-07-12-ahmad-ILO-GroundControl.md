@@ -1,4 +1,4 @@
-
+---
 title: "Ground Control using Automation – Implications for Content Moderators & Service Suppliers"
 collection: talks
 type: "ILO Regulating for Decent Work"
