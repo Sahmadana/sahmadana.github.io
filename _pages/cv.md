@@ -28,12 +28,14 @@ Scholarship
 Languages
 ======
 
-English (Native), Hindi (Native), Urdu (Native), German (B1)
+English, Hindi, Urdu, German
 
 
 Work experience
 ======
-* 2018 - Present: Research Fellow, Globalization, Work and Production, Berlin Social Science Center, Germany.
+* 2023 - December 2024: Researcher, Helmut Schmidt University, Germany.
+
+* 2018 - July 2023: Research Fellow, Globalization, Work and Production, Berlin Social Science Center, Germany.
 
 * 2018 - Sep 2022: Research Fellow, Working in Highly Automated Digital-Hybrid Processes, Weizenbaum Institute for the Networked Society, Germany.
 
