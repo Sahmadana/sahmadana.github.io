@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2018 - Present: PhD, Media and Communication Studies, Freie Universität Berlin, Germany.
+* 2018 - 2023: PhD, Freie Universität Berlin, Germany.
 
 * 2015: M.A. (Erasmus Mundus), Human Rights Policy and Practice, University of Göteborg, Sweden, University of Roehampton, UK, University of Tromsø, Norway.
 
